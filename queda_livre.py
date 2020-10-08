@@ -1,5 +1,3 @@
-
-
 gravidade = 9.8
 
 def calculo_tempo(altura):
